@@ -62,7 +62,7 @@ O projeto final consolida todos os conhecimentos anteriores em uma plataforma We
 * *Impacto:* Ferramenta pronta para ser publicada (Cloud) e utilizada por equipes técnicas de forma remota.
 
 ### 🖼️ Dashboard em Operação:
-![Dashboard Web](./<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/bac7ff73-1dc6-4fd3-b718-a9abb278ecfa" />
+(./<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/bac7ff73-1dc6-4fd3-b718-a9abb278ecfa" />
 
 
 ### 🎓 Sobre Mim
