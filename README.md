@@ -42,6 +42,15 @@ Este projeto marca a transição para a Ciência de Dados aplicada à Indústria
 ### 📈 Gráfico de Monitoramento Térmico:
 ![Monitoramento de Sensores](./monitoramento_sensores.png)
 ---
+## 🖥️ Projeto 6: Engenharia Pro - Interface Gráfica (GUI)
+Este projeto eleva as ferramentas de cálculo para o nível de software comercial, removendo a necessidade de interação via terminal.
+
+* *Interface Moderna:* Desenvolvida com CustomTkinter, apresentando suporte a Dark Mode e design responsivo.
+* *Acessibilidade:* Interface intuitiva com campos de entrada validados para evitar erros de digitação.
+* *Arquitetura:* Aplicação de lógica funcional integrada a componentes de interface em tempo real.
+
+### 🖼️ Interface do Software:
+![Interface Gráfica](./app_print.png)
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
