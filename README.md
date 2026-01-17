@@ -19,6 +19,13 @@ Este é o projeto mais avançado do portfólio, unindo automação e visualizaç
 * *Persistência de Dados:* Implementa um sistema de logs que salva cada análise em um arquivo técnico .txt com carimbo de data e hora.
 * *Stack:* Python, Matplotlib (Plotagem) e Manipulação de Arquivos (I/O).
 *
+## 🧪 Projeto 4: Simulador de Cinética Química (Reator Batelada)
+Este projeto avança na modelagem matemática, saindo de cálculos estáticos para simulações dinâmicas de processos químicos ao longo do tempo.
+
+* *Funcionalidade:* Simula o decaimento da concentração de um reagente em um reator de primeira ordem, utilizando a equação exponencial $C = C_0 \cdot e^{-kt}$.
+* *Engenharia:* Permite que o usuário defina a concentração inicial, a constante de velocidade ($k$) e o tempo de operação, gerando a curva de consumo do reagente.
+* *Destaque Técnico:* Uso de loops (for) para geração de séries temporais e aplicação de funções transcendentais da biblioteca math.
+* *Visualização:* Gera um gráfico de decaimento cinético para análise de tempo de residência e conversão.
 ---
 
 ### 🎓 Sobre Mim
@@ -31,8 +38,6 @@ Este é o projeto mais avançado do portfólio, unindo automação e visualizaç
 * Biblioteca Math
 * Versionamento com Git/GitHub
 
-## 🧪 Projeto 4: Simulador de Cinética Química (Reator Batelada)
-Este projeto avança na modelagem matemática, saindo de cálculos estáticos para simulações dinâmicas de processos químicos ao longo do tempo.
 
 * *Funcionalidade:* Simula o decaimento da concentração de um reagente em um reator de primeira ordem, utilizando a equação exponencial $C = C_0 \cdot e^{-kt}$.
 * *Engenharia:* Permite que o usuário defina a concentração inicial, a constante de velocidade ($k$) e o tempo de operação, gerando a curva de consumo do reagente.
