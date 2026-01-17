@@ -30,6 +30,17 @@ Este projeto avança na modelagem matemática, saindo de cálculos estáticos pa
 * *Visualização:* Gera um gráfico de decaimento cinético para análise de tempo de residência e conversão.
 ### 📈 Resultado Visual da Simulação:
 ![Gráfico de Cinética Química](./cinetica_reator.png)
+
+## 📊 Projeto 5: Analisador de Dados de Sensores Industriais (Pandas)
+Este projeto marca a transição para a Ciência de Dados aplicada à Indústria 4.0, utilizando a biblioteca Pandas para análise de grandes volumes de informações.
+
+* *Funcionalidade:* Simula a leitura de um sensor de temperatura em regime 24h, calculando métricas críticas como temperatura média e picos de calor.
+* *Segurança de Processos:* Implementa um sistema de alertas automáticos que identifica condições de superaquecimento fora dos limites operacionais.
+* *Stack Técnica:* Pandas (DataFrames), Matplotlib (Monitoramento Térmico) e Lógica de Decisão Baseada em Dados.
+* *Impacto:* Demonstra capacidade de automatizar a inspeção de logs industriais, reduzindo a necessidade de monitoramento manual.
+
+### 📈 Gráfico de Monitoramento Térmico:
+![Monitoramento de Sensores](./monitoramento_sensores.png)
 ---
 
 ### 🎓 Sobre Mim
