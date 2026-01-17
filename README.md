@@ -26,6 +26,8 @@ Este projeto avança na modelagem matemática, saindo de cálculos estáticos pa
 * *Engenharia:* Permite que o usuário defina a concentração inicial, a constante de velocidade ($k$) e o tempo de operação, gerando a curva de consumo do reagente.
 * *Destaque Técnico:* Uso de loops (for) para geração de séries temporais e aplicação de funções transcendentais da biblioteca math.
 * *Visualização:* Gera um gráfico de decaimento cinético para análise de tempo de residência e conversão.
+### 📈 Resultado Visual da Simulação:
+![Gráfico de Cinética Química](./cinetica_reator.png)
 ---
 
 ### 🎓 Sobre Mim
