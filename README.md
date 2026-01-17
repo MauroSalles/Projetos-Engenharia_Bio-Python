@@ -50,7 +50,8 @@ Este projeto eleva as ferramentas de cálculo para o nível de software comercia
 * *Arquitetura:* Aplicação de lógica funcional integrada a componentes de interface em tempo real.
 
 ### 🖼️ Interface do Software:
-![Interface Gráfica](./app_print.png)
+![Interface Gráfica](./<img width="398" height="473" alt="image" src="https://github.com/user-attachments/assets/0f21ad69-4e3d-427d-ae44-8d7cc869d021" />
+)
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
