@@ -13,6 +13,12 @@ Ferramenta para automação de cálculos laboratoriais baseada na *Equação de 
 * *Funcionalidade:* Calcula o pH de soluções tampão a partir do pKa e das concentrações de sal/ácido.
 * *Destaque:* Implementação de tratamento de exceções (erros de digitação e divisão por zero).
 
+## 📊 Projeto 3: Monitor de Laboratório v1.0 (Data Science)
+Este é o projeto mais avançado do portfólio, unindo automação e visualização de dados.
+* *Funcionalidade:* Além de calcular o pH, o script gera automaticamente um gráfico da curva de titulação do sistema tampão.
+* *Persistência de Dados:* Implementa um sistema de logs que salva cada análise em um arquivo técnico .txt com carimbo de data e hora.
+* *Stack:* Python, Matplotlib (Plotagem) e Manipulação de Arquivos (I/O).
+*
 ---
 
 ### 🎓 Sobre Mim
