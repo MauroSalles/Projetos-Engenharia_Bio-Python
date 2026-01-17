@@ -53,6 +53,18 @@ Este projeto eleva as ferramentas de cálculo para o nível de software comercia
 (./<img width="398" height="473" alt="image" src="https://github.com/user-attachments/assets/0f21ad69-4e3d-427d-ae44-8d7cc869d021" />
 )
 
+## 🌐 Projeto 7: Dashboard Web de Engenharia (Streamlit)
+O projeto final consolida todos os conhecimentos anteriores em uma plataforma Web completa e interativa.
+
+* *Tecnologia:* Streamlit (Framework de Data Science para Web).
+* *Funcionalidade:* Central de comando que reúne a Calculadora de Equilíbrio Químico e o Monitor de Sensores em um único ambiente.
+* *Diferencial:* Interface responsiva que roda no navegador, permitindo simulações rápidas e visualização de dados dinâmica.
+* *Impacto:* Ferramenta pronta para ser publicada (Cloud) e utilizada por equipes técnicas de forma remota.
+
+### 🖼️ Dashboard em Operação:
+![Dashboard Web](./<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/bac7ff73-1dc6-4fd3-b718-a9abb278ecfa" />
+
+
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
 * *Conquista:* 3º lugar no Provão Paulista para o curso de *Bioquímica na USP* em 2023.
