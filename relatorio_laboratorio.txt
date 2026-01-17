@@ -1,0 +1,5 @@
+
+[16/01/2026 23:22:23] - RESULTADO DE TAMPÃO
+pKa: 4.76 | Sal: 0.1 | Ácido: 0.1
+pH FINAL CALCULADO: 4.76
+------------------------------
