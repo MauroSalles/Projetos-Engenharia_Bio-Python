@@ -18,6 +18,8 @@ Este é o projeto mais avançado do portfólio, unindo automação e visualizaç
 * *Funcionalidade:* Além de calcular o pH, o script gera automaticamente um gráfico da curva de titulação do sistema tampão.
 * *Persistência de Dados:* Implementa um sistema de logs que salva cada análise em um arquivo técnico .txt com carimbo de data e hora.
 * *Stack:* Python, Matplotlib (Plotagem) e Manipulação de Arquivos (I/O).
+### 📈 Curva de Titulação Gerada:
+![Gráfico de pH](./grafico_ph.png)
 *
 ## 🧪 Projeto 4: Simulador de Cinética Química (Reator Batelada)
 Este projeto avança na modelagem matemática, saindo de cálculos estáticos para simulações dinâmicas de processos químicos ao longo do tempo.
