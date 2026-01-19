@@ -105,6 +105,18 @@ Neste projeto, implementei um modelo de aprendizado de máquina para automatizar
 
 <img width="1637" height="973" alt="image" src="https://github.com/user-attachments/assets/6cb67e38-8559-42e0-88e0-6c3382749985" />
 
+## 🏆 Projeto 10: Sistema Integrado de Inteligência Industrial
+
+O projeto final consolida todas as competências adquiridas, criando um ecossistema completo de processamento de dados.
+
+* *Arquitetura:* O sistema realiza o pipeline completo: Coleta -> IA (Predição) -> SQL (Persistência) -> Excel (Reporting).
+* *Automação Total:* Redução de intervenção humana na classificação de qualidade de produtos.
+* *Visão de Engenharia:* Demonstração de um sistema ponta a ponta (End-to-End) focado em escalabilidade e confiabilidade de dados.
+<img width="1610" height="998" alt="image" src="https://github.com/user-attachments/assets/fbe8af31-10e7-419b-b0c5-474c56252545" />
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/c83357df-1d30-472b-a21d-754bd2c19f3a" />
+
+
+
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
