@@ -115,7 +115,20 @@ O projeto final consolida todas as competências adquiridas, criando um ecossist
 <img width="1610" height="998" alt="image" src="https://github.com/user-attachments/assets/fbe8af31-10e7-419b-b0c5-474c56252545" />
 <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/c83357df-1d30-472b-a21d-754bd2c19f3a" />
 
+## 🥛 Projeto 11.B: IA de Monitoramento Preditivo (Caso de Estudo: Yakult Lorena)
 
+Este projeto simula um cenário real de alta cadência industrial, focado na planta da Yakult em Lorena/SP, com uma produção estimada em *2 milhões de unidades diárias*.
+
+* *O Problema:* Em linhas de altíssima velocidade, pequenos desvios de ritmo podem gerar prejuízos de milhares de reais em poucos minutos. 
+* *A Solução (IA):* Implementação do algoritmo *Isolation Forest* (Scikit-Learn) para detecção de anomalias em tempo real.
+* *Funcionalidade:* O sistema monitora o "ritmo cardíaco" da linha de produção. Caso o fluxo de frascos por minuto saia do padrão ideal, a IA identifica o desvio imediatamente, antes que ocorra uma quebra total.
+* *Métricas de Engenharia:* Cálculo automático de déficit de produção e identificação visual de pontos críticos (gargalos).
+
+### 🖼️ Painel de Monitoramento:
+
+<img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/80679acd-0bc9-4005-8b34-6634116f1401" />
+
+<img width="642" height="155" alt="image" src="https://github.com/user-attachments/assets/30e6c5ae-4927-46ef-b969-410f612287df" />
 
 
 ### 🎓 Sobre Mim
