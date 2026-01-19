@@ -163,6 +163,15 @@ Este projeto resolve o problema de falta de insumos em linhas de produção de f
 * *Valor para a Indústria:* Redução de custos de armazenagem e eliminação de paradas de fábrica por falta de matéria-prima.
 <img width="658" height="196" alt="image" src="https://github.com/user-attachments/assets/563ac033-6c46-4973-9210-8bb13cfc69da" />
 
+## ⚡ Projeto 13: Simulador de Eficiência Energética Industrial
+
+Este projeto foca na gestão de utilidades, um dos maiores custos operacionais das indústrias do Vale do Paraíba.
+
+* *Objetivo:* Calcular o impacto financeiro do consumo elétrico por equipamento.
+* *Análise de Custos:* Implementação de lógica de tarifação diferenciada (Ponta vs. Fora de Ponta).
+* *Visão Sustentável:* Ferramenta para auxiliar na identificação de equipamentos com alto consumo, permitindo estratégias de eficiência energética (ESG).
+* *Resultado:* Gráfico de distribuição (Pizza) que permite ao gestor visualizar rapidamente onde está o maior gasto de energia da planta.
+  ![Gráfico de Distribuição](custo_energia.png)
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
