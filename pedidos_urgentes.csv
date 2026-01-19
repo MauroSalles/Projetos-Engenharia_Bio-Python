@@ -1,0 +1,3 @@
+Item,Estoque_Atual,Consumo_Diario_Medio,Tempo_Entrega_Fornecedor_Dias,Estoque_Seguranca_Minimo,Ponto_de_Pedido,Status_Compra,Dias_de_Autonomia
+Resina PEAD,5000,800,5,1000,5000,🚨 COMPRA CRÍTICA,6.25
+Leite em Pó,2000,300,7,500,2600,🚨 COMPRA CRÍTICA,6.666666666666667
