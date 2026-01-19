@@ -94,6 +94,17 @@ Nesta etapa, implementei a camada de banco de dados para garantir que as informa
 <img width="1625" height="1004" alt="image" src="https://github.com/user-attachments/assets/423c49b7-3616-42f4-8b9e-b484e4efb61c" />
 <img width="1614" height="988" alt="image" src="https://github.com/user-attachments/assets/0e827ae6-b594-4a9a-942f-3b414ce55370" />
 
+## 🤖 Projeto 9: Inteligência Artificial Preditiva (Machine Learning)
+
+Neste projeto, implementei um modelo de aprendizado de máquina para automatizar a tomada de decisão no controle de qualidade.
+
+* *Algoritmo:* RandomForestClassifier (Scikit-Learn).
+* *Funcionalidade:* O modelo consome dados históricos do banco SQL e aprende a classificar lotes como "Aprovado" ou "Reprovado" com base no peso médio.
+* *Processamento:* Realizei a limpeza e transformação de dados (Encoding), além da divisão entre conjuntos de treino e teste para validação da acurácia.
+* *Resultado:* O modelo atingiu 100% de precisão nos dados de teste, sendo capaz de prever o status de novos lotes de forma instantânea.
+
+<img width="1637" height="973" alt="image" src="https://github.com/user-attachments/assets/6cb67e38-8559-42e0-88e0-6c3382749985" />
+
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
