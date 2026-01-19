@@ -65,6 +65,21 @@ O projeto final consolida todos os conhecimentos anteriores em uma plataforma We
 /<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/bac7ff73-1dc6-4fd3-b718-a9abb278ecfa" />
 
 
+
+
+## 📊 Projeto 8.A: Automação de Inteligência de Dados (Excel Industrial)
+
+Este projeto demonstra a capacidade de integrar o Python com ferramentas corporativas (Excel) para automatizar o fluxo de relatórios de produção, eliminando processos manuais e erros humanos.
+
+* *Contexto Industrial:* Simulação de uma base de dados de produção de granjas/unidades fabris.
+* *Engenharia de Dados:* Implementação de cálculos automáticos de métricas de desempenho, como a *Eficiência de Conversão Alimentar (CA)*.
+* *Tecnologias:* Uso da biblioteca Pandas para manipulação de dados e OpenPyXL para motor de escrita Excel.
+* *Diferencial:* Geração de relatórios multi-abas, separando dados brutos de um *Resumo Executivo* formatado para tomada de decisão gerencial.
+
+### 🖼️ Resultado da Automação:
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/32b3734e-47a8-4ee3-a141-dafc3455ee89" />
+
+
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
 * *Conquista:* 3º lugar no Provão Paulista para o curso de *Bioquímica na USP* em 2023.
