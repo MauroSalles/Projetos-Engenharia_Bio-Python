@@ -150,6 +150,7 @@ Este projeto simula um cenário real de alta cadência industrial, focado na pla
 <img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/80679acd-0bc9-4005-8b34-6634116f1401" />
 
 <img width="642" height="155" alt="image" src="https://github.com/user-attachments/assets/30e6c5ae-4927-46ef-b969-410f612287df" />
+
 > *Destaque:* Este sistema demonstra competência em *Indústria 4.0*, unindo estatística avançada e ciência de dados para garantir a continuidade operacional.
 
 ### 🎓 Sobre Mim
