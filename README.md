@@ -78,6 +78,7 @@ Este projeto demonstra a capacidade de integrar o Python com ferramentas corpora
 
 ### 🖼️ Resultado da Automação:
 <img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/32b3734e-47a8-4ee3-a141-dafc3455ee89" />
+<img width="1638" height="1007" alt="image" src="https://github.com/user-attachments/assets/31c5c213-fd98-48ae-b2a4-2295d0b37a19" />
 
 
 ### 🎓 Sobre Mim
