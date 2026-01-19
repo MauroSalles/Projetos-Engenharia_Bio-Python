@@ -115,6 +115,24 @@ O projeto final consolida todas as competências adquiridas, criando um ecossist
 <img width="1610" height="998" alt="image" src="https://github.com/user-attachments/assets/fbe8af31-10e7-419b-b0c5-474c56252545" />
 <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/c83357df-1d30-472b-a21d-754bd2c19f3a" />
 
+## 🏭 Projeto 11: Gestão de Eficiência Industrial (OEE & Downtime Analyser)
+
+Este projeto foca na espinha dorsal da engenharia de produção: a maximização da produtividade através da análise de indicadores de performance (OEE).
+
+* *O Problema:* Identificar onde a fábrica está perdendo dinheiro por inatividade e baixa performance.
+* *A Solução:* Um sistema que processa o tempo de máquina parada por categoria e calcula o impacto financeiro real para a unidade.
+* *Métricas Implementadas:*
+    * *Disponibilidade:* Percentual de tempo em que a linha esteve apta a produzir.
+    * *Performance:* Comparação entre o ritmo real e a capacidade nominal.
+    * *Qualidade:* Índice de conformidade de produtos finais.
+* *Análise de Pareto:* Geração automática de gráficos de barras que expõem os maiores "vilões" da produtividade (Ex: Manutenção Corretiva, Setups demorados).
+* *Impacto Financeiro:* O código converte minutos parados em valores monetários (R$), facilitando a comunicação com a diretoria para investimentos em melhorias.
+
+### 🖼️ Análise de Gargalos Operacionais:
+![Gráfico de Impacto de Paradas](./impacto_paradas.png)
+
+> *Diferencial:* Este projeto demonstra visão de negócio, focando em redução de custos e maximização de lucros através de dados reais de engenharia.
+
 ## 🥛 Projeto 11.B: IA de Monitoramento Preditivo (Caso de Estudo: Yakult Lorena)
 
 Este projeto simula um cenário real de alta cadência industrial, focado na planta da Yakult em Lorena/SP, com uma produção estimada em *2 milhões de unidades diárias*.
