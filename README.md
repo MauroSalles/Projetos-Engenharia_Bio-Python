@@ -131,6 +131,9 @@ Este projeto foca na espinha dorsal da engenharia de produção: a maximização
 ### 🖼️ Análise de Gargalos Operacionais:
 ![Gráfico de Impacto de Paradas](./impacto_paradas.png)
 
+<img width="762" height="190" alt="image" src="https://github.com/user-attachments/assets/41e84dda-3f96-43fa-9f0f-f17e2d8471ab" />
+
+
 > *Diferencial:* Este projeto demonstra visão de negócio, focando em redução de custos e maximização de lucros através de dados reais de engenharia.
 
 ## 🥛 Projeto 11.B: IA de Monitoramento Preditivo (Caso de Estudo: Yakult Lorena)
