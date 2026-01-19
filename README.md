@@ -80,6 +80,20 @@ Este projeto demonstra a capacidade de integrar o Python com ferramentas corpora
 <img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/32b3734e-47a8-4ee3-a141-dafc3455ee89" />
 <img width="1638" height="1007" alt="image" src="https://github.com/user-attachments/assets/31c5c213-fd98-48ae-b2a4-2295d0b37a19" />
 
+## 🗄️ Projeto 8.B: Persistência de Dados com SQL (SQLite)
+
+Nesta etapa, implementei a camada de banco de dados para garantir que as informações de qualidade e produção sejam armazenadas de forma estruturada e permanente.
+
+* *Tecnologia:* SQLite (Banco de dados relacional leve e eficiente).
+* *Estrutura:* Criação automatizada de tabelas via SQL (DDL) e inserção de dados via Python.
+* *Foco em Qualidade:* Registro de status de lotes (Aprovado/Reprovado) com métricas de peso médio.
+* *Impacto:* Transição do armazenamento em arquivos simples para um sistema de Gerenciamento de Banco de Dados (SGBD), permitindo consultas rápidas e histórico de longo prazo.
+
+### 🖼️ Visualização do Banco de Dados no VS Code:
+<img width="1623" height="984" alt="image" src="https://github.com/user-attachments/assets/be84f695-7970-4cee-865e-0ec9cb6cdeb4" />
+<img width="1625" height="1004" alt="image" src="https://github.com/user-attachments/assets/423c49b7-3616-42f4-8b9e-b484e4efb61c" />
+<img width="1614" height="988" alt="image" src="https://github.com/user-attachments/assets/0e827ae6-b594-4a9a-942f-3b414ce55370" />
+
 
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
