@@ -153,6 +153,17 @@ Este projeto simula um cenário real de alta cadência industrial, focado na pla
 
 > *Destaque:* Este sistema demonstra competência em *Indústria 4.0*, unindo estatística avançada e ciência de dados para garantir a continuidade operacional.
 
+## 📦 Projeto 12: Otimização de Supply Chain (Ponto de Pedido Automático)
+
+Este projeto resolve o problema de falta de insumos em linhas de produção de fluxo contínuo.
+
+* *Conceito:* Implementação de lógica de *Ponto de Pedido (PP)* e *Estoque de Segurança*.
+* *Funcionalidade:* O sistema analisa o consumo diário médio e o Lead Time (tempo de entrega) dos fornecedores para identificar riscos de ruptura de estoque.
+* *Output Profissional:* Geração automática de requisições de compra em formato CSV para itens com status crítico.
+* *Valor para a Indústria:* Redução de custos de armazenagem e eliminação de paradas de fábrica por falta de matéria-prima.
+<img width="658" height="196" alt="image" src="https://github.com/user-attachments/assets/563ac033-6c46-4973-9210-8bb13cfc69da" />
+
+
 ### 🎓 Sobre Mim
 * *Formação:* Cursando o 3º ano de Engenharia de Computação (UNIVESP).
 * *Conquista:* 3º lugar no Provão Paulista para o curso de *Bioquímica na USP* em 2023.
