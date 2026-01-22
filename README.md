@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de tecnologia aplicada. Este repositório é o resul
 ## 🚀 Destaques de Indústria 4.0
 
 ### 🤖 Monitoramento Preditivo & Detecção de Anomalias (Caso Yakult Lorena)
-Sistema de IA treinado para monitorar linhas de produção com volume de $2 \times 10^6$ unidades/dia.
+Sistema de IA treinado para monitorar linhas de produção com volume de (2 x 10^6) unidades/dia.
 * *Algoritmo:* Isolation Forest para identificação de desvios rítmicos em tempo real.
 * *Objetivo:* Prevenção de paradas não programadas (*Downtime*) e garantia da continuidade operacional.
 * *Impacto:* Transformação de dados brutos de sensores em alertas críticos de manutenção.
